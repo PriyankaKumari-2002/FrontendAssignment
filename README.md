@@ -131,9 +131,18 @@ These steps outline the process for creating the three pages as described. <br>
     "tailwindcss": "^3.3.2", <br>
     "web-vitals": "^2.1.4" <br>
 <p align="left">
+<br>
+**Project Screenshots** <br>
+**Login Page** <br>
+
    <a href="#">
 <img width="916" alt="image" src="https://github.com/PriyankaKumari-2002/Levitation-Frontend-Task/assets/80983161/cbbaf826-5eff-46e6-ae68-dd4783a3e1fe">
+**Forgot Password** <br>
+<img width="917" alt="image" src="https://github.com/PriyankaKumari-2002/Levitation-Frontend-Task/assets/80983161/b72437eb-c392-414c-8d29-d813335091ec">
+** Send Otp for Forget Password** <br>
+<img width="920" alt="image" src="https://github.com/PriyankaKumari-2002/Levitation-Frontend-Task/assets/80983161/b8c6b574-9be3-4314-a6a6-c9511d8a9c81">
 
+**Enter Otp** <br>
 
 	
 </a>
