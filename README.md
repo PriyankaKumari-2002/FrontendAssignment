@@ -7,17 +7,19 @@ This is my Task for Levitation ReactJS Frontend Development Internship.
 	<h3 align="center">Effortless Access and Data Submission: Simplify Login and Information Form Processes ...<h3>
 	<br />
 
-[![Hosted Link ](https://img.shields.io/badge/Video-Link%20to%20Video-blue?style=flat-square&logo=appveyor)](https://youtu.be/QJ9o6T1rgBw)
+[![Hosted Link ](https://img.shields.io/badge/Video-Link%20to%20Video-blue?style=flat-square&logo=appveyor)](https://frontend-assignment-m82m-7pguhtzwb-priyankagrd2018-gmailcom.vercel.app/)
  </p>
 			
    												      
   <p align="center">
    .
+    <a href="https://frontend-assignment-m82m-7pguhtzwb-priyankagrd2018-gmailcom.vercel.app/"> Project Hosted Demo Link </a>
+    ·
     <a href="https://youtu.be/QJ9o6T1rgBw"> Project Video Demo Link </a>
+    .
+    <a href="https://github.com/PriyankaKumari-2002/Levitation-Frontend-Task/issues">Report Issues</a>
     ·
-    <a href="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/issues">Report Issues</a>
-    ·
-    <a href="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/issues"> Suggest/Request Feature</a>
+    <a href="https://github.com/PriyankaKumari-2002/Levitation-Frontend-Task/issues"> Suggest/Request Feature</a>
 	</p>
 </p>
 
@@ -29,18 +31,23 @@ This is my Task for Levitation ReactJS Frontend Development Internship.
  
 	
 ## 📋 Project Overview
-micro-MediDetect-age is a fully functional **disease diagnosing website using face recognition
-technology made using Agile development methodology** as part of the Microsoft Engage 2022
-program. 
+This project aims to create a comprehensive web application that combines user authentication, form submission, file uploads, and geolocation capture. By implementing a multi-step form with a progress indicator, we ensure a seamless user experience while collecting necessary information. With the integration of APIs and client-side validations, the application maintains data integrity and provides accurate feedback to the users. Our goal is to deliver an intuitive and efficient solution that meets the requirements of a modern web application.
 
 
 ## 🔖 Introduction
 	
-Taking a pulse is a very important part of heart health checks. A person's resting heart rate is a major factor in determining a person's risk of a heart attack. So, what if you could determine the pulse rate with just using webcam/camera?   Early detection of Genetic Diseases  help in early intervention and treatment, which may either cure the disease or improve the outcome of the patient but still doctors struggle to recognize as they don't spend much time with them.
-												    
-Keeping all this in mind, introducting you my project micro-MediDetect-age...
-												    
-micro-MediDetect-age is a non-invasive and no cost diagnosis solution to check pulse rate and genetic diseases remotely and safely.
+Welcome to our project that aims to create a comprehensive web application with multiple features. The primary focus of this project is to develop a multi-step form with a progress indicator, integrating various functionalities such as user login, forgot password functionality, file uploads, geolocation capture, and API integration. Through this application, users will be able to navigate through different steps, provide their information, and experience a seamless and intuitive form submission process.
+
+Project Objectives:
+
+Create a login page with email field validation and integrate an API for authentication.
+Develop a forgot password page to allow users to reset their passwords conveniently.
+Design a multi-step form with a progress indicator for a seamless user experience.
+Implement client-side validation for form fields to ensure data integrity.
+Integrate an API to handle form submissions and provide appropriate responses.
+Enable file uploads, including both single-file upload and multi-file upload functionality.
+Automatically capture geolocation during a specific step and display the status accordingly.
+Enhance the application's visual appeal and user experience through well-designed interfaces.
 
 
 
