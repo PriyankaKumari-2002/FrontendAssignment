@@ -15,7 +15,7 @@ This is my Task for Levitation ReactJS Frontend Development Internship.
    .
     <a href="https://frontend-assignment-m82m-7pguhtzwb-priyankagrd2018-gmailcom.vercel.app/"> Project Hosted Demo Link </a>
     ·
-    <a href=""> Project Video Demo Link </a>
+    <a href="https://www.youtube.com/watch?v=-g7rLcXdFvY"> Project Video Demo Link </a>
     .
     <a href="https://github.com/PriyankaKumari-2002/Levitation-Frontend-Task/issues">Report Issues</a>
     ·
@@ -53,7 +53,7 @@ Enhance the application's visual appeal and user experience through well-designe
 
 
 
-![GIF demo](https://github.com/PriyankaKumari-2002/Levitation-Frontend-Task/blob/master/Project%20Demo%20Video.mp4)
+![GIF demo](https://www.youtube.com/watch?v=-g7rLcXdFvY)
 
 ## 💡Features
 	
@@ -178,7 +178,7 @@ Password: levitation <br> <br>
 </a>
 
  
- ![GIF demo](https://github.com/PriyankaKumari-2002/Levitation-Frontend-Task/blob/master/Project%20Demo%20Video.mp4)
+ ![GIF demo](https://www.youtube.com/watch?v=-g7rLcXdFvY)
 
 
 
