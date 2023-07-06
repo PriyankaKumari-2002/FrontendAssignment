@@ -27,7 +27,9 @@ This is my Task for Levitation ReactJS Frontend Development Internship.
 ## 🔗 Important Links
 
  👉[Video Demo](https://youtu.be/QJ9o6T1rgBw) <br>
- 👉 
+ 👉 ## For login, use following credentials: <br>
+Email:  levitation@levitation.in <br>
+Password: levitation <br> <br>
  
 	
 ## 📋 Project Overview
@@ -102,7 +104,7 @@ These steps outline the process for creating the three pages as described. <br>
 
 ## 🧰 Tools and Technologies used
 
- **Frontend:**
+ ## **Frontend:**
 ● ReactJS <br>
 ● ViteJS <br>
 ● Tailwind CSS <br>
@@ -130,19 +132,30 @@ These steps outline the process for creating the three pages as described. <br>
     "redux": "^4.2.1", <br>
     "tailwindcss": "^3.3.2", <br>
     "web-vitals": "^2.1.4" <br>
+    Use : Email:  levitation@levitation.in <br>
+Password: levitation <br> <br>
 <p align="left">
 <br>
-**Project Screenshots** <br>
-**Login Page** <br>
-
+## Project Screenshots<br>
+## Login Page <br>
+Email:  levitation@levitation.in <br>
+Password: levitation <br> <br>
    <a href="#">
-<img width="916" alt="image" src="https://github.com/PriyankaKumari-2002/Levitation-Frontend-Task/assets/80983161/cbbaf826-5eff-46e6-ae68-dd4783a3e1fe">
+<img width="916" alt="image" src="https://github.com/PriyankaKumari-2002/Levitation-Frontend-Task/assets/80983161/cbbaf826-5eff-46e6-ae68-dd4783a3e1fe"> <br>
 **Forgot Password** <br>
-<img width="917" alt="image" src="https://github.com/PriyankaKumari-2002/Levitation-Frontend-Task/assets/80983161/b72437eb-c392-414c-8d29-d813335091ec">
-** Send Otp for Forget Password** <br>
-<img width="920" alt="image" src="https://github.com/PriyankaKumari-2002/Levitation-Frontend-Task/assets/80983161/b8c6b574-9be3-4314-a6a6-c9511d8a9c81">
+<img width="917" alt="image" src="https://github.com/PriyankaKumari-2002/Levitation-Frontend-Task/assets/80983161/b72437eb-c392-414c-8d29-d813335091ec"> <br>
+## Send Otp for Forget Password <br>
+<img width="920" alt="image" src="https://github.com/PriyankaKumari-2002/Levitation-Frontend-Task/assets/80983161/b8c6b574-9be3-4314-a6a6-c9511d8a9c81"> <br>
 
-**Enter Otp** <br>
+## Enter Otp <br>
+<img width="916" alt="image" src="https://github.com/PriyankaKumari-2002/Levitation-Frontend-Task/assets/80983161/b9071e02-2959-4f71-9075-3a507094eae1"> <br>
+## Verify OTP <br>
+<img width="918" alt="image" src="https://github.com/PriyankaKumari-2002/Levitation-Frontend-Task/assets/80983161/87da8b04-4c74-42a9-9229-361f006de6db"> <br>
+## Multi-Step Form <br>
+## Step 1 <br>
+
+
+
 
 	
 </a>
@@ -160,7 +173,8 @@ These steps outline the process for creating the three pages as described. <br>
 		<td>
 		Priyanka Kumari
 		<p align="center">
-			<img src = "https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/micro-mediDetect-age/Priyanka.jpeg" width="150" height="150" alt="Priyanka Kumari">
+			<img src = <img width="239" alt="image" src="https://github.com/PriyankaKumari-2002/Levitation-Frontend-Task/assets/80983161/366be378-4c9e-416c-88ad-94eb6cadca0b">
+ width="150" height="150" alt="Priyanka Kumari">
 		</p>
 			<p align="center">
 				<a href = "https://github.com/PriyankaKumari-2002">
