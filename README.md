@@ -15,7 +15,7 @@ This is my Task for Levitation ReactJS Frontend Development Internship.
    .
     <a href="https://frontend-assignment-m82m-7pguhtzwb-priyankagrd2018-gmailcom.vercel.app/"> Project Hosted Demo Link </a>
     ·
-    <a href="https://youtu.be/QJ9o6T1rgBw"> Project Video Demo Link </a>
+    <a href=""> Project Video Demo Link </a>
     .
     <a href="https://github.com/PriyankaKumari-2002/Levitation-Frontend-Task/issues">Report Issues</a>
     ·
