@@ -53,7 +53,7 @@ Enhance the application's visual appeal and user experience through well-designe
 
 
 
-![GIF demo](https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Engage22Project-GIF.gif)
+![GIF demo](https://github.com/PriyankaKumari-2002/Levitation-Frontend-Task/blob/master/Project%20Demo%20Gif.gif)
 
 ## 💡Features
 	
@@ -178,7 +178,7 @@ Password: levitation <br> <br>
 </a>
 
  
- ![GIF demo](https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Engage22Project-GIF.gif)
+ ![GIF demo](https://github.com/PriyankaKumari-2002/Levitation-Frontend-Task/blob/master/Project%20Demo%20Gif.gif)
 
 
 
