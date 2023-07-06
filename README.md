@@ -31,23 +31,23 @@ This is my Task for Levitation ReactJS Frontend Development Internship.
  
 	
 ## 📋 Project Overview
-This project aims to create a comprehensive web application that combines user authentication, form submission, file uploads, and geolocation capture. By implementing a multi-step form with a progress indicator, we ensure a seamless user experience while collecting necessary information. With the integration of APIs and client-side validations, the application maintains data integrity and provides accurate feedback to the users. Our goal is to deliver an intuitive and efficient solution that meets the requirements of a modern web application.
+This project aims to create a comprehensive web application that combines user authentication, form submission, file uploads, and geolocation capture. By implementing a multi-step form with a progress indicator, we ensure a seamless user experience while collecting necessary information. With the integration of APIs and client-side validations, the application maintains data integrity and provides accurate feedback to the users. The goal is to deliver an intuitive and efficient solution that meets the requirements of a modern web application.
 
 
 ## 🔖 Introduction
 	
-Welcome to our project that aims to create a comprehensive web application with multiple features. The primary focus of this project is to develop a multi-step form with a progress indicator, integrating various functionalities such as user login, forgot password functionality, file uploads, geolocation capture, and API integration. Through this application, users will be able to navigate through different steps, provide their information, and experience a seamless and intuitive form submission process.
+Welcome to my project that aims to create a comprehensive web application with multiple features. The primary focus of this project is to develop a multi-step form with a progress indicator, integrating various functionalities such as user login, forgot password functionality, file uploads, geolocation capture, and API integration. Through this application, users will be able to navigate through different steps, provide their information, and experience a seamless and intuitive form submission process.
 
 Project Objectives:
 
-Create a login page with email field validation and integrate an API for authentication.
-Develop a forgot password page to allow users to reset their passwords conveniently.
-Design a multi-step form with a progress indicator for a seamless user experience.
-Implement client-side validation for form fields to ensure data integrity.
-Integrate an API to handle form submissions and provide appropriate responses.
-Enable file uploads, including both single-file upload and multi-file upload functionality.
-Automatically capture geolocation during a specific step and display the status accordingly.
-Enhance the application's visual appeal and user experience through well-designed interfaces.
+Create a login page with email field validation and integrate an API for authentication. <br>
+Develop a forgot password page to allow users to reset their passwords conveniently. <br>
+Design a multi-step form with a progress indicator for a seamless user experience. <br>
+Implement client-side validation for form fields to ensure data integrity. <br>
+Integrate an API to handle form submissions and provide appropriate responses. <br>
+Enable file uploads, including both single-file upload and multi-file upload functionality. <br>
+Automatically capture geolocation during a specific step and display the status accordingly. <br>
+Enhance the application's visual appeal and user experience through well-designed interfaces. <br>
 
 
 
@@ -132,9 +132,9 @@ These steps outline the process for creating the three pages as described. <br>
     "web-vitals": "^2.1.4" <br>
 <p align="left">
    <a href="#">
-	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/app.png?raw=true width="600", height="300" alt="Microsoft Engage 22"/>
-	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/pulseDetect.png?raw=true width="600", height="300" alt="Microsoft Engage 22"/>
-	<img src="https://github.com/PriyankaKumari-2002/micro-MediDetect-age-Microsoft-Engage-22/blob/master/Project_Images/micro-pulse-age.drawio.png?raw=true width="600", height="300" alt="Microsoft Engage 22"/>
+<img width="916" alt="image" src="https://github.com/PriyankaKumari-2002/Levitation-Frontend-Task/assets/80983161/cbbaf826-5eff-46e6-ae68-dd4783a3e1fe">
+
+
 	
 </a>
 
