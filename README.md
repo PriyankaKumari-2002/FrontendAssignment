@@ -142,7 +142,7 @@ Email:  levitation@levitation.in <br>
 Password: levitation <br> <br>
    <a href="#">
 <img width="916" alt="image" src="https://github.com/PriyankaKumari-2002/Levitation-Frontend-Task/assets/80983161/cbbaf826-5eff-46e6-ae68-dd4783a3e1fe"> <br>
-**Forgot Password** <br>
+## Forgot Password <br>
 <img width="917" alt="image" src="https://github.com/PriyankaKumari-2002/Levitation-Frontend-Task/assets/80983161/b72437eb-c392-414c-8d29-d813335091ec"> <br>
 ## Send Otp for Forget Password <br>
 <img width="920" alt="image" src="https://github.com/PriyankaKumari-2002/Levitation-Frontend-Task/assets/80983161/b8c6b574-9be3-4314-a6a6-c9511d8a9c81"> <br>
@@ -173,8 +173,9 @@ Password: levitation <br> <br>
 		<td>
 		Priyanka Kumari
 		<p align="center">
-			<img src = <img width="239" alt="image" src="https://github.com/PriyankaKumari-2002/Levitation-Frontend-Task/assets/80983161/366be378-4c9e-416c-88ad-94eb6cadca0b">
- width="150" height="150" alt="Priyanka Kumari">
+			<img width="239" alt="image" src="https://github.com/PriyankaKumari-2002/Levitation-Frontend-Task/assets/80983161/31feac14-63ce-40a8-959e-dbecc2edb482">
+
+ 
 		</p>
 			<p align="center">
 				<a href = "https://github.com/PriyankaKumari-2002">
