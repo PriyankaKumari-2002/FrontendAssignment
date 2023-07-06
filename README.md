@@ -136,7 +136,9 @@ These steps outline the process for creating the three pages as described. <br>
 Password: levitation <br> <br>
 <p align="left">
 <br>
-## Project Screenshots<br>
+	
+
+## Project Screenshots <br>
 ## Login Page <br>
 Email:  levitation@levitation.in <br>
 Password: levitation <br> <br>
@@ -176,7 +178,7 @@ Password: levitation <br> <br>
 			<img width="239" alt="image" src="https://github.com/PriyankaKumari-2002/Levitation-Frontend-Task/assets/80983161/31feac14-63ce-40a8-959e-dbecc2edb482">
 
  
-		</p>
+</p>
 			<p align="center">
 				<a href = "https://github.com/PriyankaKumari-2002">
 					<img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36" alt="GitHub"/>
