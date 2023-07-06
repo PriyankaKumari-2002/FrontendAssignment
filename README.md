@@ -155,6 +155,21 @@ Password: levitation <br> <br>
 <img width="918" alt="image" src="https://github.com/PriyankaKumari-2002/Levitation-Frontend-Task/assets/80983161/87da8b04-4c74-42a9-9229-361f006de6db"> <br>
 ## Multi-Step Form <br>
 ## Step 1 <br>
+<img width="919" alt="image" src="https://github.com/PriyankaKumari-2002/Levitation-Frontend-Task/assets/80983161/bcb8d055-ff60-4d91-8961-c3e4fe1baf41"> <br>
+## Step 2 <br>
+<img width="919" alt="image" src="https://github.com/PriyankaKumari-2002/Levitation-Frontend-Task/assets/80983161/3dea6241-0355-48d5-86c8-ee94d1c8bdee"> <br>
+## Step 3 <br>
+<img width="908" alt="image" src="https://github.com/PriyankaKumari-2002/Levitation-Frontend-Task/assets/80983161/48749a9c-00a2-4f70-8415-833948a4e1d6"> <br>
+## Step 4 <br>
+<img width="927" alt="image" src="https://github.com/PriyankaKumari-2002/Levitation-Frontend-Task/assets/80983161/18529824-e22d-44ef-9622-d82f949d940c"> <br>
+<img width="928" alt="image" src="https://github.com/PriyankaKumari-2002/Levitation-Frontend-Task/assets/80983161/5c9f53ff-3f21-4ea2-9d3d-3fcce69d078e"> <br>
+## Step 5 <br>
+<img width="925" alt="image" src="https://github.com/PriyankaKumari-2002/Levitation-Frontend-Task/assets/80983161/9035bd83-73f9-4fac-89e8-d26162c53179"> <br>
+
+## Form Submission <br>
+<img width="925" alt="image" src="https://github.com/PriyankaKumari-2002/Levitation-Frontend-Task/assets/80983161/bca5d9b4-261f-42d0-b496-5a34d9dc83b0"> <br>
+
+
 
 
 
