@@ -7,7 +7,7 @@ This is my Task for Levitation ReactJS Frontend Development Internship.
 	<h3 align="center">Effortless Access and Data Submission: Simplify Login and Information Form Processes ...<h3>
 	<br />
 
-[![Hosted Link ](https://img.shields.io/badge/Video-Link%20to%20Video-blue?style=flat-square&logo=appveyor)](https://frontend-assignment-m82m-7pguhtzwb-priyankagrd2018-gmailcom.vercel.app/)
+[![Hosted Link ]](https://frontend-assignment-m82m-7pguhtzwb-priyankagrd2018-gmailcom.vercel.app/)
  </p>
 			
    												      
