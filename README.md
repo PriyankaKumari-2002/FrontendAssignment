@@ -26,7 +26,7 @@ This is my Task for Levitation ReactJS Frontend Development Internship.
 ---
 ## 🔗 Important Links
 
- 👉[Video Demo](https://youtu.be/QJ9o6T1rgBw) <br>
+ 👉[Video Demo](https://github.com/PriyankaKumari-2002/Levitation-Frontend-Task/blob/master/Project%20Demo%20Video.mp4) <br>
  👉 ## For login, use following credentials: <br>
 Email:  levitation@levitation.in <br>
 Password: levitation <br> <br>
@@ -53,7 +53,7 @@ Enhance the application's visual appeal and user experience through well-designe
 
 
 
-![GIF demo](https://github.com/PriyankaKumari-2002/Levitation-Frontend-Task/blob/master/Project%20Demo%20Gif.gif)
+![GIF demo](https://github.com/PriyankaKumari-2002/Levitation-Frontend-Task/blob/master/Project%20Demo%20Video.mp4)
 
 ## 💡Features
 	
@@ -178,7 +178,7 @@ Password: levitation <br> <br>
 </a>
 
  
- ![GIF demo](https://github.com/PriyankaKumari-2002/Levitation-Frontend-Task/blob/master/Project%20Demo%20Gif.gif)
+ ![GIF demo](https://github.com/PriyankaKumari-2002/Levitation-Frontend-Task/blob/master/Project%20Demo%20Video.mp4)
 
 
 
